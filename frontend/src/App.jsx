@@ -9,6 +9,7 @@ function App() {
 
   const [selectedCandidate, setSelectedCandidate] = useState("");
   const [inputCandidate, setInputCandidate] = useState("");
+
   const [account, setAccount] = useState("");
   const [message, setMessage] = useState("");
   const [showModal, setShowModal] = useState(false);

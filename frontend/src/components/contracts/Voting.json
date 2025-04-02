@@ -89,8 +89,7 @@
         {
           "internalType": "uint256",
           "name": "candidateId",
-          "type": "uint256"
-        }
+          "type": "uint256"       }
       ],
       "name": "getVoteCount",
       "outputs": [
